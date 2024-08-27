@@ -1,6 +1,8 @@
 # dice_roller
 
 A new Flutter project.
+This is the first project I have uploaded in github 
+This application is made in flutter using dart language, it contains DIce roller which gives a new dice face(number) in each click.
 
 ## Getting Started
 
